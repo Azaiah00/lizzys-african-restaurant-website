@@ -1,0 +1,10 @@
+_source-photos/
+.netlify/
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
