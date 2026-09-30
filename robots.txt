@@ -26,4 +26,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://lizzysafrican.com/sitemap.xml
+Sitemap: https://lizzys-african-restaurant-website.netlify.app/sitemap.xml

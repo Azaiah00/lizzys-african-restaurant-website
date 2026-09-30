@@ -7,7 +7,7 @@
 - Type: Restaurant (West African, Ghanaian, African)
 - Address: 5310 Chamberlayne Rd, Richmond, VA 23227 (Chamberlayne Road corridor, North Richmond)
 - Phone: (804) 716-4259 (call to order for pickup)
-- Website: https://lizzysafrican.com/
+- Website: https://lizzys-african-restaurant-website.netlify.app/
 - Black-owned: yes (listed on EatOkra, a directory of Black-owned businesses)
 - Opened: October 8, 2024
 - Google rating: 4.3 stars from 190 reviews
@@ -40,10 +40,10 @@ Dishes featured by the restaurant also include fried turkey wings, fried tilapia
 Price guide: full plates are about $17.99 to $19.99 on DoorDash.
 
 ## Pages
-- Home: https://lizzysafrican.com/
-- Menu: https://lizzysafrican.com/menu.html
-- First-timer's guide to West African food (fufu, banku, kenkey, waakye, jollof, egusi, light soup, attieke): https://lizzysafrican.com/guide.html
-- Hours and directions: https://lizzysafrican.com/visit.html
+- Home: https://lizzys-african-restaurant-website.netlify.app/
+- Menu: https://lizzys-african-restaurant-website.netlify.app/menu.html
+- First-timer's guide to West African food (fufu, banku, kenkey, waakye, jollof, egusi, light soup, attieke): https://lizzys-african-restaurant-website.netlify.app/guide.html
+- Hours and directions: https://lizzys-african-restaurant-website.netlify.app/visit.html
 
 ## Social
 - Instagram: https://www.instagram.com/lizzys_african_restaurant/
